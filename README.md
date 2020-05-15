@@ -4,6 +4,6 @@
 
 Оскільки я зіткнувся з проблемою 403, я не зміг виконати парсинг данних з сайту свого варіанту, тому я обрав варіант 17, та виконав лабораторну роботу. Зміст завдання 2 обрав з 18 варіанту.
 
-![Скріншот]https://github.com/PashaZhytomyr/db_lab1/blob/master/lab1/screenshots/first.jpg)
-![Скріншот]https://github.com/PashaZhytomyr/db_lab1/blob/master/lab1/screenshots/second.jpg)
+![Скріншот](https://github.com/PashaZhytomyr/db_lab1/blob/master/lab1/screenshots/first.jpg)
+![Скріншот](https://github.com/PashaZhytomyr/db_lab1/blob/master/lab1/screenshots/second.jpg)
 
